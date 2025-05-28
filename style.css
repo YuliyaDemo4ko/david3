@@ -1,0 +1,7 @@
+body {
+    font-family: sans-serif;
+    background-color: aqua;
+}
+p{border: 3px solid red;
+border-radius: 5px;}
+p:hover{font-size: 30px;}
